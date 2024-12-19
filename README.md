@@ -35,8 +35,8 @@ The Example Social Research Organization is a fictitious nonprofit organization 
 ### Installation Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd example-social-research-org
+   git clone git@github.com:muhammadmazhar27/et757-20241220-mm-project-rails.git
+   cd ngo_2
    ```
 
 2. **Install Dependencies**:
